@@ -1,13 +1,13 @@
-package com.example.design_patterns;
+package com.example.example1_text_editor;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DesignPatternsApplication {
+public class Example1TextEditorApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DesignPatternsApplication.class, args);
+		SpringApplication.run(Example1TextEditorApplication.class, args);
 	}
 
 }
