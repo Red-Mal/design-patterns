@@ -1,6 +1,7 @@
 package com.example.example1_text_editor.model;
 
 public class Document {
+
     private String content;
 
     public Document(String content) {

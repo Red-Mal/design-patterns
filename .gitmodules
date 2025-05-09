@@ -1,3 +1,5 @@
 [submodule "factory/example1-insurance-subscription"]
 	path = factory/example1-insurance-subscription
 	url = https://github.com/Red-Mal/design-patterns.git
+[submodule "libs/my-library"]
+	url = git@github.com:your-username/.git
