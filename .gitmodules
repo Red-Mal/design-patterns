@@ -3,3 +3,6 @@
 	url = git@github.com/Red-Mal/factory-pattern.git
 [submodule "libs/my-library"]
 	url = git@github.com:your-username/.git
+[submodule "factory-pattern"]
+	path = factory-pattern
+	url = git@github.com:Red-Mal/factory-pattern.git
